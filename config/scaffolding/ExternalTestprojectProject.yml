@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ExternalTestprojectProject
+  gitServerName: https://github.com
+  gitUrl: https://github.com/y509522/ExternalTestprojectProject
+  gitUsername: y509522
+  gitBranch: main
